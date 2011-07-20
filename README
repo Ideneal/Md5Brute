@@ -1,0 +1,11 @@
+Author: Gdm1
+Site: http://www.ideneal.hellospace.net/
+
+
+This program decypt MD5 hash string with brute force attack
+
+To install this programm you have to have "openssl lib".
+If you don't have it, you can get it on: "http://www.openssl.org/source/".
+Than you can run the Makefile, so you must digit: "make"
+
+Thanks to Midnightmare for helping me to realize this software ;)
